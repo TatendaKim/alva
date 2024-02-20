@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166637992731",
+    "project_id": "alva-88f07",
+    "storage_bucket": "alva-88f07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166637992731:android:dc58cd6a7217ec8de771be",
+        "android_client_info": {
+          "package_name": "com.example.alva_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Vm2JP1iNs3JptR8IhGuMFYL0LH2_GS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
